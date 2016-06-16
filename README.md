@@ -1,2 +1,2 @@
-# today-i-am-thankful-for
+# Today I Am Thankful For
 Daily gratitude journal
