@@ -3,9 +3,15 @@ body {
   text-align: center;
 }
 
-header {
+h1 {
   font-family: 'Noto Sans', sans-serif;
   text-transform: uppercase;
+}
+
+h2 {
+  font-family: 'Noto Serif', serif;
+  font-size: 3rem;
+  text-transform: lowercase;
 }
 
 /*# sourceMappingURL=style.css.map */
