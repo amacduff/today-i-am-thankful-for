@@ -6,11 +6,17 @@ body {
     text-align: center;
 }
 
-h1 {
-    font: {
-        family: 'Noto Sans', sans-serif;
+header {
+    padding: 5rem 0;
+
+    h1 {
+        color: #CECECE;
+        font: {
+            family: 'Noto Sans', sans-serif;
+        }
+        text-transform: uppercase;
     }
-    text-transform: uppercase;
+
 }
 
 h2 {
