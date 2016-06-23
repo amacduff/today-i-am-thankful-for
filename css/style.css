@@ -5,6 +5,11 @@ body {
   text-align: center;
 }
 
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
 header {
   padding: 5rem 0;
 }
