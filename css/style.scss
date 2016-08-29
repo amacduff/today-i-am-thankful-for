@@ -38,3 +38,8 @@ footer {
     padding: 2rem 0;
     text-transform: uppercase;
 }
+
+@keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 100% 0; }
+}
