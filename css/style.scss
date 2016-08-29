@@ -1,12 +1,12 @@
 @import 'https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif';
 
 @keyframes animatedBackground {
-	from { background-position: 0 0; }
-	to { background-position: 100% 0; }
+	from { background-position: 100% 0; }
+	to { background-position: 0 0; }
 }
 
 body {
-    animation: animatedBackground 40s linear infinite;
+    animation: animatedBackground 60s linear infinite;
     background-color: #01579B;
     background: url(../img/wov.png) repeat;
     background-position: 0px 0px;
