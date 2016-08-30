@@ -38,7 +38,9 @@ h2 {
 }
 
 ul {
+  margin: 0 auto;
   text-align: left;
+  width: 50%;
 }
 
 footer {
