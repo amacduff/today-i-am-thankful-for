@@ -11,6 +11,11 @@ body {
     background: url(../img/wov.png) repeat;
     background-position: 0px 0px;
     color: #FFFFFF;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
     font: {
         family: 'Noto Sans', sans-serif;
     }
@@ -30,12 +35,6 @@ header {
         text-transform: uppercase;
     }
 
-}
-
-main {
-	display: flex;
-	justify-content: center;
-	align-items: center;
 }
 
 h2 {
