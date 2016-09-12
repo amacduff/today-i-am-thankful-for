@@ -30,6 +30,12 @@ header h1 {
   text-transform: uppercase;
 }
 
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 h2 {
   font-family: 'Noto Serif', serif;
   font-size: 3rem;
