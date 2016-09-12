@@ -25,11 +25,9 @@ a {
   text-decoration: none;
 }
 
-header {
-  padding: 5rem 0;
-}
-header h1 {
+h1 {
   color: #B2EBF2;
+  padding: 5rem 0;
   text-transform: uppercase;
 }
 

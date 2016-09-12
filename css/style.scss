@@ -15,7 +15,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	
+
     font: {
         family: 'Noto Sans', sans-serif;
     }
@@ -27,14 +27,10 @@ a {
     text-decoration: none;
 }
 
-header {
-    padding: 5rem 0;
-
-    h1 {
-        color: #B2EBF2;
-        text-transform: uppercase;
-    }
-
+h1 {
+    color: #B2EBF2;
+	padding: 5rem 0;
+    text-transform: uppercase;
 }
 
 h2 {
